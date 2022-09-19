@@ -2,16 +2,16 @@
 
 Self-Assessment:
     
-    The crucial part was defining the project scope and gathering the data. 
-    I did additional research to get the most recent data  set that was the requirement of this project.
-    Although handling and retrieving the data, database and DataFrame was challenging. 
-    I worked so hard and successfully would be able to get it done. I am feeling so proud of myself.
+  The crucial part was defining the project scope and gathering the data. 
+  I did additional research to get the most recent data  set that was the requirement of this project.
+  Although handling and retrieving the data, database and DataFrame was challenging. 
+  I worked so hard and successfully would be able to get it done. I am feeling so proud of myself.
 
 Team_Assessment
                          
-           Each team member clearly understands the group's performance and expectations.
-           Our group has open, constructive discussions about disagreements or problems, and we were generally positive and motivated, even in difficult times.
-           Each group member is equally committed to the group's success and understands how individual contribution relates to group performance. 
+  Each team member clearly understands the group's performance and expectations.
+  Our group has open, constructive discussions about disagreements or problems, and we were generally positive and motivated, even in difficult times.
+  Each group member is equally committed to the group's success and understands how individual contribution relates to group performance. 
 
 Brief summary of the project
 
